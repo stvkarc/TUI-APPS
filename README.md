@@ -44,23 +44,6 @@ This repo is meant to be a simple reference list for productivity, file manageme
 - Bat
 - Exa / Lsd
 
-## Why Yazi?
-Yazi is a standout choice because it combines speed, keyboard efficiency, and a modern terminal experience. It feels lightweight compared to heavier GUI tools, and it fits perfectly into a Linux workflow.
-
-## Quick Install Examples
-
-Ubuntu/Debian:
-```bash
-sudo apt update
-sudo apt install yazi
-```
-
-Arch:
-```bash
-sudo pacman -S yazi
-```
-
-For other distros, check the project docs for the latest install instructions.
 
 ## Goals of this Repo
 - Save the best TUI tools I discover
